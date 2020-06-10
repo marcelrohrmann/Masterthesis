@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<elements>
+    <cubesatmodule>
+	<ID>cubesatmodule08052020111425</ID>
+	<expressions>
+		<cubesat_length>82.5</cubesat_length>
+   		<cubesat_color_number>173</cubesat_color_number>
+   		<circle_color_number>186</circle_color_number>
+   		<diameter>23</diameter>
+   		<rectangle_length>16</rectangle_length>
+   		<rectangle_color_number>29</rectangle_color_number>
+  	</expressions>
+    </cubesatmodule>
+</elements>

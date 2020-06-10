@@ -1,0 +1,3 @@
+import ColorCheck
+
+color.myfunc()

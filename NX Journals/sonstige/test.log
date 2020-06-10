@@ -1,0 +1,21 @@
+﻿name: Diameter
+expression units: MilliMeter (mm)
+value in expression units: 22
+
+name: cubesat_length
+expression units: MilliMeter (mm)
+value in expression units: 80
+
+name: rectangle_color_number
+integer value: 29
+
+name: circle_color_number
+integer value: 186
+
+name: rectangle_length
+expression units: MilliMeter (mm)
+value in expression units: 15,5
+
+name: cubesat_color_number
+integer value: 173
+
