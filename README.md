@@ -1,2 +1,2 @@
 # Masterthesis 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/marcelrohrmann/Masterthesis/master/Test%20set%20up.jpg)
